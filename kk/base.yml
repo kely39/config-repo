@@ -1,0 +1,19 @@
+kk:
+  weixin:
+    enabled: true
+    appId: wx206bbf74f0c8e9b5
+    mchId: 1419009602
+    mchKey: Bbjd3128971247137218471247213712
+    httpTimeout: 10000
+    keyPath: classpath:apiclient_cert.p12
+    httpConnectionTimeout: 8000
+    signType: MD5
+    notifyUrl: xxx
+  alipay:
+    enabled: true
+    appId: 2018081461019338
+    privateKey: xxx
+    alipayPublicKey: xxx
+    notifyUrl: xxx
+    returnUrl: xxx
+
