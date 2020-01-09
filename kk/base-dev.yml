@@ -30,7 +30,7 @@ kk:
   framework-web:
     swagger:
       enabled: true
-      name: base-git-dev-1
+      name: base-git-dev-2
     cors:
       enabled: true
     xss:
